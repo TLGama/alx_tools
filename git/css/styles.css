@@ -10,11 +10,12 @@ main{
 }
 
 article{
-    flex:2;
+    flex:1;
     overflow-y: auto;
+    color: blue;
 }
 
 aside{
-    flex:1;
+    flex:2;
     overflow-y: auto;
 }
